@@ -1,90 +1,164 @@
 {
   "profile": {
-    "companyName": "",
-    "shortName": "",
+    "companyName": "浙江君安检测技术有限公司",
+    "shortName": "君安检测",
     "isListed": false,
     "stockCode": "",
-    "website": "",
-    "industry": "",
-    "subIndustry": "",
-    "scale": "",
-    "mainBusiness": "",
-    "products": [],
-    "targetCustomers": [],
-    "businessModel": "",
-    "rating": "",
-    "tags": [],
+    "website": "http://www.jiance.cc/",
+    "industry": "专业技术服务业",
+    "subIndustry": "放射卫生检测与评价",
+    "scale": "小型（50-200人）",
+    "mainBusiness": "放射卫生检测与评价一站式技术服务",
+    "products": [
+      "放射装置质量控制检测",
+      "放射工作场所防护检测",
+      "放射工作人员个人剂量监测",
+      "建设项目职业病危害放射防护预评价（甲级）",
+      "建设项目职业病危害控制效果放射防护评价（甲级）",
+      "环境影响评价",
+      "环境保护验收监测",
+      "《放射诊疗许可证》及《辐射安全许可证》办理及相关咨询服务",
+      "放射机房布局设计，辐射防护设计、施工等咨询服务"
+    ],
+    "targetCustomers": [
+      "全国各医疗机构",
+      "企事业单位",
+      "放射诊疗机构"
+    ],
+    "businessModel": "B2B专业技术服务，提供检测、评价、咨询一体化服务",
+    "rating": "B+",
+    "tags": ["高新技术企业", "放射卫生", "甲级资质", "检测服务"],
 
     "registration": {
-      "foundedDate": "",
-      "registeredCapital": "",
-      "paidInCapital": "",
-      "ownershipType": "",
+      "foundedDate": "2012年",
+      "registeredCapital": "800万人民币",
+      "paidInCapital": "800万人民币",
+      "ownershipType": "民营",
       "branches": { "count": 0, "locations": [] },
-      "legalRisks": "",
-      "operatingAnomalies": "",
-      "penalties": "",
-      "summary": ""
+      "legalRisks": "无明显公开风险信息",
+      "operatingAnomalies": "无",
+      "penalties": "无公开记录",
+      "summary": "资本实力稳定，实缴与注册资本一致，运营时间12年以上，业务成熟"
     },
 
     "policyAnalysis": {
       "isSpecialized": false,
       "isDigitalTransformation": false,
       "isESG": false,
-      "isHighTech": false,
-      "policySupportLevel": "",
-      "leverageStrategy": ""
+      "isHighTech": true,
+      "policySupportLevel": "中",
+      "leverageStrategy": "可借力高新技术企业身份，强调数字化升级符合监管合规要求"
     },
 
     "timing": {
-      "currentPhase": "",
-      "evidence": "",
-      "entryStrategy": ""
+      "currentPhase": "稳定成长期",
+      "evidence": "成立12年+，甲级资质稳定，拥有高精密检测设备50+台套，技术人员占比60%+，正在招聘销售代表和评价工程师",
+      "entryStrategy": "业务扩张期，需要管理工具支撑规模化发展"
     },
 
     "creditRisk": {
-      "legalRisk": "",
-      "operationalRisk": "",
-      "creditRating": "",
+      "legalRisk": "低",
+      "operationalRisk": "低",
+      "creditRating": "B+",
       "warnings": [],
-      "salesAdvice": ""
+      "salesAdvice": "客户资质良好，高新技术企业，业务稳定，可正常合作"
     },
 
     "organization": {
-      "type": "",
-      "decisionChain": "",
-      "keyPersons": [],
-      "salesStrategy": ""
+      "type": "民营科技企业",
+      "decisionChain": "中等复杂度，预计需要技术负责人和业务负责人双重认可",
+      "keyPersons": [
+        { "role": "技术负责人", "concern": "系统专业性、合规性" },
+        { "role": "业务负责人", "concern": "效率提升、客户体验" }
+      ],
+      "salesStrategy": "从业务效率痛点切入，展示系统能解决的流程问题，再强调合规保障"
     },
 
     "strategy": {
-      "phase": "",
-      "growthStage": "",
-      "competitivePosition": "",
-      "digitalMaturity": "",
-      "analysisPath": "",
-      "informationQuality": "",
-      "expansionSignals": [],
+      "phase": "稳定成长期",
+      "growthStage": "规模化扩张前夜",
+      "competitivePosition": "区域细分领域专业服务商",
+      "digitalMaturity": "中低（基于行业通用推断）",
+      "analysisPath": "Path B+（有官网+行业推断）",
+      "informationQuality": "中",
+      "expansionSignals": ["招聘销售代表", "招聘评价工程师", "业务覆盖全国"],
       "contractionSignals": [],
       "riskSignals": []
     },
 
     "techStack": {
-      "current": [],
-      "inferred": [],
-      "maturity": "",
-      "direction": ""
+      "current": ["未知（基于行业推断：Excel+基础办公软件）"],
+      "inferred": ["可能使用基础财务软件", "可能使用简单文档管理系统"],
+      "maturity": "中低",
+      "direction": "业务流程数字化、移动化协同"
     },
 
-    "keyMetrics": [],
+    "keyMetrics": [
+      { "metric": "成立时间", "value": "2012年（12年+）", "source": "官网" },
+      { "metric": "注册资本", "value": "800万人民币", "source": "天眼查" },
+      { "metric": "实缴资本", "value": "800万人民币", "source": "天眼查" },
+      { "metric": "检测能力", "value": "200+项", "source": "官网" },
+      { "metric": "高精密设备", "value": "50+台套", "source": "官网" },
+      { "metric": "技术人员占比", "value": "60%+", "source": "官网" },
+      { "metric": "资质等级", "value": "甲级", "source": "官网" }
+    ],
 
     "metadata": {
-      "createdAt": null,
-      "updatedAt": null,
-      "createdBy": "",
+      "createdAt": "2026-03-09T14:00:00Z",
+      "updatedAt": "2026-03-09T14:00:00Z",
+      "createdBy": "init-project skill",
       "version": "1.0",
-      "sources": [],
-      "confidence": 0
+      "sources": [
+        "http://www.jiance.cc/",
+        "https://www.tianyancha.com/company/1371587182"
+      ],
+      "confidence": 65
     }
-  }
+  },
+
+  "painPoints": [
+    {
+      "category": "项目管理",
+      "pain": "检测项目全流程缺乏统一管理",
+      "impact": "项目进度不透明，状态跟踪困难"
+    },
+    {
+      "category": "样品管理",
+      "pain": "样品接收、流转、检测、报告全链条手工管理",
+      "impact": "效率低、易出错、追溯困难"
+    },
+    {
+      "category": "报告管理",
+      "pain": "报告格式不统一，签章流程复杂",
+      "impact": "手工操作多，报告真伪难辨"
+    },
+    {
+      "category": "客户管理",
+      "pain": "客户信息分散在业务人员手中",
+      "impact": "公司层面难以掌控客户资源"
+    },
+    {
+      "category": "合规管理",
+      "pain": "人员资质、设备校准、标准更新管理复杂",
+      "impact": "合规风险高，管理成本大"
+    }
+  ],
+
+  "opportunities": [
+    {
+      "category": "数字化升级",
+      "description": "从手工/Excel管理升级为系统化管理",
+      "priority": "高"
+    },
+    {
+      "category": "移动办公",
+      "description": "支持现场采样数据录入、移动审批",
+      "priority": "中"
+    },
+    {
+      "category": "数据分析",
+      "description": "检测数据统计、业务报表分析",
+      "priority": "中"
+    }
+  ]
 }
